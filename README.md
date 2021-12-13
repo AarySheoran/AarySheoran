@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AarySheoran
-- 👀 I’m interested in finding new problems to solve as a data analyst, specifically in fintech, edtech, and healthtech
+- 👀 I’m interested in finding new problems to solve as a product manager/data scientist, specifically in fintech, edtech, and healthtech
 - 🌱 I’m currently learning working with Ender to build the OS of property management 
 - 📫 Reach out to me at aryamansheoran@gmail.com
 
